@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicolasCostadaSilva
 - 👀 I’m interested in the coding universe
 - 🌱 I’m currently learning some front-end abilities
-- 📫 How to reach me: nicolaspfpvppf@gmail.com
+- 📫 How to reach me: nicolascosta@ufpr.br
 - 🔭 I’m already code in C, C++, Python, Java, JavaScript, HTML, CSS
